@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParseoJSON</string>
+    <string name="msj_info">Revisa el Logcat para los resultados :)</string>
+
+</resources>
